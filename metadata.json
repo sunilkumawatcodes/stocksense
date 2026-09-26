@@ -1,0 +1,8 @@
+{
+  "name": "StockSense",
+  "description": "StockSense - Learn. Practice. Invest Smarter. An educational stock market learning and paper-trading platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
